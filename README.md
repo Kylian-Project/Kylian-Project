@@ -5,7 +5,7 @@
 
 - 🖱️ I’m currently working on several private projects
 
-- 🍀 I’m currently learning computer science in high school
+- 🍀 I’m currently learning computer science at the Faculty
 
 - 📫 Contact me : **kylian88100@gmail.com**
 
