@@ -17,7 +17,7 @@
 
 #
 
-![snake gif](https://github.com/Kylian-Project/Kylian-Project/blob/output/github-contribution-grid-snake.gif)
+<h3 align="center"><img src="https://raw.githubusercontent.com/kylian-project/kylian-project/output/snake.svg" alt="Snake animation" /></h3>
 
 # <h3 align="left">🔧 Languages and Tools :</h3>
 <div align="center">
