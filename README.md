@@ -15,6 +15,10 @@
 
 ![](https://kylian.alwaysdata.net/icon/crown.svg)  [**School competition won**](https://github.com/Kylian-Project/Trophee-NSI)
 
+#
+
+![Snake animation](https://github.com/kylian-project/kylian-project/blob/output/github-contribution-grid-snake.svg)
+
 # <h3 align="left">🔧 Languages and Tools :</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
