@@ -1,6 +1,7 @@
 ![](https://i.imgur.com/LxCCdzI.png)
 <h1 align="center">Hey ​!​ What's up ?</h1>
-<h3 align="center">My name is Kylian and I'm a French student with a passion for development. I'm currently studying for a computer science degree at the University of Strasbourg.</h3>
+<h3 align="center">My name is Kylian and I'm a French student with a passion for development.<br>I'm currently studying for a computer science degree at the University of Strasbourg.</h3>
+<h3 align="center"><a href="https://kylian-project.fr/"><b>▶️ Portfolio Kylian ◀️​</b></a></h3>
 
 #
 
