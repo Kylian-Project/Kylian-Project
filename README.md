@@ -1,11 +1,14 @@
 ![](https://i.imgur.com/LxCCdzI.png)
 <h1 align="center">Hey ​!​ What's up ?</h1>
-<h3 align="center">My name is Kylian and I'm a French student with a passion for development.<br>I'm currently studying for a computer science degree at the University of Strasbourg.</h3>
+<h3 align="center">
+My name is Kylian and I'm a French student with a passion for software development.<br>
+I'm currently pursuing a Master's degree in Computer Science at the University of Strasbourg.
+</h3>
 <h3 align="center"><a href="https://kylian-project.fr/" target="_blank"><b>▶️ Portfolio Kylian ◀️​</b></a></h3>
 
 #
 
-![](https://kylian.alwaysdata.net/icon/code.svg)  **I’m currently working on several private projects**
+![](https://kylian.alwaysdata.net/icon/code.svg)  **I’m currently working on several personal projects**
 
 ![](https://kylian.alwaysdata.net/icon/school.svg)  **I’m currently learning computer science at the Faculty**
 
