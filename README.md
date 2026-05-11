@@ -8,17 +8,17 @@ I'm currently pursuing a Master's degree in Computer Science at the University o
 
 #
 
-![](https://kylian.alwaysdata.net/icon/code.svg)  **I’m currently working on several personal projects**
+![](https://kylian-project.fr/icon/code.svg)  **I’m currently working on several personal projects**
 
-![](https://kylian.alwaysdata.net/icon/school.svg)  **I’m currently learning computer science at the Faculty**
+![](https://kylian-project.fr/icon/school.svg)  **I’m currently learning computer science at the Faculty**
 
-![](https://kylian.alwaysdata.net/icon/mail.svg)  **Contact me : kylian88100@gmail.com**
+![](https://kylian-project.fr/icon/mail.svg)  **Contact me : kylian88100@gmail.com**
 
-![](https://kylian.alwaysdata.net/icon/edit.svg)  **Design : I take care of the design of all my projects**
+![](https://kylian-project.fr/icon/edit.svg)  **Design : I take care of the design of all my projects**
 
-![](https://kylian.alwaysdata.net/icon/terminal.svg)  **Fun fact : I was born with a computer in my hands**
+![](https://kylian-project.fr/icon/terminal.svg)  **Fun fact : I was born from a compiler**
 
-![](https://kylian.alwaysdata.net/icon/crown.svg)  [**School competition won**](https://github.com/Kylian-Project/Trophee-NSI)
+![](https://kylian-project.fr/icon/crown.svg)  [**School competition won**](https://github.com/Kylian-Project/Trophee-NSI)
 
 #
 
