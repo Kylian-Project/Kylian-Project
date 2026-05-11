@@ -10,7 +10,7 @@ I'm currently pursuing a Master's degree in Computer Science at the University o
 
 ![](https://kylian-project.fr/icon/code.svg)  **I’m currently working on several personal projects**
 
-![](https://kylian-project.fr/icon/school.svg)  **I’m currently learning computer science at the Faculty**
+![](https://kylian-project.fr/icon/school.svg)  **I’m learning computer science at the Faculty**
 
 ![](https://kylian-project.fr/icon/mail.svg)  **Contact me : kylian88100@gmail.com**
 
